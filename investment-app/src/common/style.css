@@ -1,0 +1,178 @@
+.registration-form, .login {
+    padding: 10px;
+}
+
+.login {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.registration-details-left, .registration-details-right {
+    padding: 10px;
+    flex: 1;
+}
+
+.ant-form-item {
+    margin-bottom: 6px !important;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+.registration-details {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.heading {
+    padding: 8px 24px;
+    display: flex;
+    background-color: #fff;
+    align-items: baseline;
+}
+
+.heading h2 {
+    color: blueviolet;
+}
+
+.heading-right {
+    display: flex;
+    margin-left: auto;
+    order: 2;
+    margin-right: 15px;
+    align-items: baseline;
+}
+
+.heading-right h4 {
+    color: #b3b3b3
+}
+
+.profile {
+    background-color: #efefef;
+}
+
+.profile-body {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around
+}
+
+.info, .details-left, .details-right {
+    background-color: #fff;
+}
+
+.info {
+    flex-basis: 23%;
+    text-align: center;
+    padding: 10px;
+}
+
+.details-left, .details-right {
+    flex-basis: 38%;
+    padding: 10px 20px;
+}
+
+.info img {
+    border-radius: 50%;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.grey {
+    color: #c4c4c4;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.info h4 {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.about {
+    padding: 10px 20px;
+    color: #bcbcbc;
+}
+
+.title {
+    font-weight: bold;
+    flex-basis: 50%;
+}
+
+.value {
+    color: #a0a0a0;
+}
+
+.details-left div, .details-right div {
+    display: flex;
+    justify-content: flex-start;
+    padding: 4px 0px;
+}
+
+.dashboard, .header-container{
+    background-color: #efefef;
+}
+.header-container .heading {
+    background-color: #fff;
+}
+.dashboard-body-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+}
+
+.header-head {
+    margin: 2px;
+    padding: 7px 11px;
+    
+}
+
+.header-head h2 {
+    font-size: 18px !important;
+    color: #c4c4c4;
+    font-weight: bold;
+}
+
+.dashboard-body {
+    border: 2px solid red;
+    margin-top: 20px;
+    flex-basis: 30%;
+    width: 40%;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.tbl-wrapper {
+    margin: 15px;
+}
+
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td {
+    padding: 8px 8px !important;
+}
+
+.header-head nav ul {
+    list-style: none;
+    margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
+}
+
+.header-head nav ul li {
+    display: inline;
+    padding-right: 22px;
+}
+
+.header-head nav ul li:hover {
+    font-size: 17px;
+}
+
+.selected {
+    background-color: grey;
+    color: #fff;
+    padding: 10px;
+}
+
+
