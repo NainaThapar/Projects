@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/*
+=============== 
+homepage
+===============
+*/
+.homepage {
+  text-align: center;
+}
+.header {
+  font-size: 48px;
+  font-weight: 800px;
+  padding: 20px;
+  text-align: center;
+  background-color: #efefef;
+  margin-bottom: 15px;
+}
+.place {
+  color: #acacac;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*
+=============== 
+card
+===============
+*/
+a:link {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+a:visited {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+.card-holder {
+  padding: 10px;
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  width: max-content;
+  margin: 5px 15px 15px 15px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.icon-style {
+  padding-top: 10px;
+}
+
+.date {
+  color: #cdcdcd;
+}
+
+.temperature {
+  font-size: 24px;
+  font-weight: 700 !important;
+}
+
+.atmos {
+  margin-top: 20px;
+  color: #5b5d60;
+  font-size: 14px;
+}
+
+/*
+=============== 
+forecast details
+===============
+*/
+
+.detail-page {
+  text-align: center;
+}
+
+.detail-atmos {
+  font-size: 16px
+}
