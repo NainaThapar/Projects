@@ -1,0 +1,46 @@
+{
+    "country": "India",
+    "city": "New Delhi",
+    "details": [{
+        "day": "Friday",
+        "temp": "36 F",
+        "icon": "fa fa-bolt icon-style",
+        "desc": "thunderstorm",
+        "date": "March 1st, 1:00 pm",
+        "color": "yellow"
+    },
+    {
+        "day": "Saturday",
+        "temp": "35 F",
+        "icon": "fa fa-umbrella icon-style",
+        "desc": "rain",
+        "date": "March 2nd, 1:00 pm",
+        "color": "pink"
+    },
+    {
+        "day": "Sunday",
+        "temp": "33 F",
+        "icon": "fa fa-cloud icon-style",
+        "desc": "cloudy",
+        "date": "March 3rd, 1:00 pm",
+        "color": "aquamarine"
+    }
+    ,
+    {
+        "day": "Monday",
+        "temp": "36 F",
+        "icon": "fa fa-umbrella icon-style",
+        "desc": "rain",
+        "date": "March 4th, 1:00 pm",
+        "color": "pink"
+    },
+    {
+        "day": "Tuesday",
+        "temp": "34 F",
+        "icon": "fa fa-bolt icon-style",
+        "desc": "thunderstorm",
+        "date": "March 5th, 1:00 pm",
+        "color": "yellow"
+    }
+]
+}
